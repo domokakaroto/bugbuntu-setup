@@ -4,7 +4,7 @@
 
 Make the script executable by running the command:
 
-chmod +x setup.sh
+    chmod +x setup.sh
 
 Run the script with:
 
